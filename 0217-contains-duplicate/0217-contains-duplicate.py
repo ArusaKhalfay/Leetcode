@@ -4,12 +4,14 @@ class Solution:
         for i in range(0, len(nums)):
             if nums[i] in d:
                 d[nums[i]] += 1
-            else:
+            elif nums[i] not in d:
                 d[nums[i]] = 1
         
         for key, value in d.items():
-            if d[key] > 1:
+            if value > 1:
                 return True
         
         return False
+            
+        
         

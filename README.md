@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ArusaKhalfay/Leetcode/tree/master/0001-two-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArusaKhalfay/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/ArusaKhalfay/Leetcode/tree/master/0217-contains-duplicate) |
+| [2058-concatenation-of-array](https://github.com/ArusaKhalfay/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArusaKhalfay/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Simulation
+|  |
+| ------- |
+| [2058-concatenation-of-array](https://github.com/ArusaKhalfay/Leetcode/tree/master/2058-concatenation-of-array) |
 <!---LeetCode Topics End-->

@@ -1,20 +1,20 @@
 class MyHashSet:
 
     def __init__(self):
-        self.s = set()
+        self.data = []
         
     def add(self, key: int) -> None:
-        if key not in self.s:
-            self.s.add(key)
+        if key not in self.data:
+            self.data.append(key)
         
 
     def remove(self, key: int) -> None:
-        if key in self.s:
-            self.s.remove(key)
+        if key in self.data:
+            self.data.remove(key)
         
 
     def contains(self, key: int) -> bool:
-        if key in self.s:
+        if key in self.data:
             return True
         else:
             return False

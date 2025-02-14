@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ArusaKhalfay/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/ArusaKhalfay/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ArusaKhalfay/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ArusaKhalfay/Leetcode/tree/master/0392-is-subsequence) |
 | [2032-largest-odd-number-in-string](https://github.com/ArusaKhalfay/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ArusaKhalfay/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArusaKhalfay/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/ArusaKhalfay/Leetcode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/ArusaKhalfay/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ArusaKhalfay/Leetcode/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/ArusaKhalfay/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/ArusaKhalfay/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->

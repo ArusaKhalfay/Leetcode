@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ArusaKhalfay/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ArusaKhalfay/Leetcode/tree/master/0217-contains-duplicate) |
 | [0455-assign-cookies](https://github.com/ArusaKhalfay/Leetcode/tree/master/0455-assign-cookies) |
+| [0682-baseball-game](https://github.com/ArusaKhalfay/Leetcode/tree/master/0682-baseball-game) |
 | [0816-design-hashset](https://github.com/ArusaKhalfay/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ArusaKhalfay/Leetcode/tree/master/0817-design-hashmap) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ArusaKhalfay/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/ArusaKhalfay/Leetcode/tree/master/0682-baseball-game) |
 | [2058-concatenation-of-array](https://github.com/ArusaKhalfay/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Divide and Conquer
 |  |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ArusaKhalfay/Leetcode/tree/master/0392-is-subsequence) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/ArusaKhalfay/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->

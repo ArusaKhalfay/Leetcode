@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ArusaKhalfay/Leetcode/tree/master/0682-baseball-game) |
 | [0816-design-hashset](https://github.com/ArusaKhalfay/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ArusaKhalfay/Leetcode/tree/master/0817-design-hashmap) |
+| [0965-unique-email-addresses](https://github.com/ArusaKhalfay/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ArusaKhalfay/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2058-concatenation-of-array](https://github.com/ArusaKhalfay/Leetcode/tree/master/2058-concatenation-of-array) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ArusaKhalfay/Leetcode/tree/master/0242-valid-anagram) |
 | [0816-design-hashset](https://github.com/ArusaKhalfay/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ArusaKhalfay/Leetcode/tree/master/0817-design-hashmap) |
+| [0965-unique-email-addresses](https://github.com/ArusaKhalfay/Leetcode/tree/master/0965-unique-email-addresses) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ArusaKhalfay/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ArusaKhalfay/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ArusaKhalfay/Leetcode/tree/master/0392-is-subsequence) |
+| [0965-unique-email-addresses](https://github.com/ArusaKhalfay/Leetcode/tree/master/0965-unique-email-addresses) |
 | [2032-largest-odd-number-in-string](https://github.com/ArusaKhalfay/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |

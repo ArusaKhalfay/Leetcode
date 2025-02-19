@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArusaKhalfay/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ArusaKhalfay/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ArusaKhalfay/Leetcode/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/ArusaKhalfay/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ArusaKhalfay/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/ArusaKhalfay/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/ArusaKhalfay/Leetcode/tree/master/0605-can-place-flowers) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/ArusaKhalfay/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/ArusaKhalfay/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ArusaKhalfay/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/ArusaKhalfay/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/ArusaKhalfay/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0816-design-hashset](https://github.com/ArusaKhalfay/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ArusaKhalfay/Leetcode/tree/master/0817-design-hashmap) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ArusaKhalfay/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ArusaKhalfay/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ArusaKhalfay/Leetcode/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/ArusaKhalfay/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ArusaKhalfay/Leetcode/tree/master/0455-assign-cookies) |
 | [2756-buy-two-chocolates](https://github.com/ArusaKhalfay/Leetcode/tree/master/2756-buy-two-chocolates) |
 ## String
@@ -68,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/ArusaKhalfay/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArusaKhalfay/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/ArusaKhalfay/Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/ArusaKhalfay/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/ArusaKhalfay/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ArusaKhalfay/Leetcode/tree/master/0455-assign-cookies) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArusaKhalfay/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/ArusaKhalfay/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Simulation
 |  |
 | ------- |

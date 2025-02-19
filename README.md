@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0965-unique-email-addresses](https://github.com/ArusaKhalfay/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ArusaKhalfay/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2058-concatenation-of-array](https://github.com/ArusaKhalfay/Leetcode/tree/master/2058-concatenation-of-array) |
+| [2756-buy-two-chocolates](https://github.com/ArusaKhalfay/Leetcode/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/ArusaKhalfay/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/ArusaKhalfay/Leetcode/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/ArusaKhalfay/Leetcode/tree/master/0455-assign-cookies) |
+| [2756-buy-two-chocolates](https://github.com/ArusaKhalfay/Leetcode/tree/master/2756-buy-two-chocolates) |
 ## String
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/ArusaKhalfay/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ArusaKhalfay/Leetcode/tree/master/0605-can-place-flowers) |
 | [2032-largest-odd-number-in-string](https://github.com/ArusaKhalfay/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2756-buy-two-chocolates](https://github.com/ArusaKhalfay/Leetcode/tree/master/2756-buy-two-chocolates) |
 ## Math
 |  |
 | ------- |

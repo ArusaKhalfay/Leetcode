@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/ArusaKhalfay/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ArusaKhalfay/Leetcode/tree/master/0817-design-hashmap) |
 | [0965-unique-email-addresses](https://github.com/ArusaKhalfay/Leetcode/tree/master/0965-unique-email-addresses) |
+| [1297-maximum-number-of-balloons](https://github.com/ArusaKhalfay/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Sorting
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/ArusaKhalfay/Leetcode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/ArusaKhalfay/Leetcode/tree/master/0392-is-subsequence) |
 | [0965-unique-email-addresses](https://github.com/ArusaKhalfay/Leetcode/tree/master/0965-unique-email-addresses) |
+| [1297-maximum-number-of-balloons](https://github.com/ArusaKhalfay/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [2032-largest-odd-number-in-string](https://github.com/ArusaKhalfay/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ArusaKhalfay/Leetcode/tree/master/0169-majority-element) |
+| [1297-maximum-number-of-balloons](https://github.com/ArusaKhalfay/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 ## Linked List
 |  |
 | ------- |

@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/ArusaKhalfay/Leetcode/tree/master/0682-baseball-game) |
 | [0816-design-hashset](https://github.com/ArusaKhalfay/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ArusaKhalfay/Leetcode/tree/master/0817-design-hashmap) |
+| [0890-lemonade-change](https://github.com/ArusaKhalfay/Leetcode/tree/master/0890-lemonade-change) |
 | [0965-unique-email-addresses](https://github.com/ArusaKhalfay/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ArusaKhalfay/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2058-concatenation-of-array](https://github.com/ArusaKhalfay/Leetcode/tree/master/2058-concatenation-of-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/ArusaKhalfay/Leetcode/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/ArusaKhalfay/Leetcode/tree/master/0605-can-place-flowers) |
+| [0890-lemonade-change](https://github.com/ArusaKhalfay/Leetcode/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/ArusaKhalfay/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2756-buy-two-chocolates](https://github.com/ArusaKhalfay/Leetcode/tree/master/2756-buy-two-chocolates) |
 ## Math

@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/ArusaKhalfay/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0965-unique-email-addresses](https://github.com/ArusaKhalfay/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1297-maximum-number-of-balloons](https://github.com/ArusaKhalfay/Leetcode/tree/master/1297-maximum-number-of-balloons) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ArusaKhalfay/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/ArusaKhalfay/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ArusaKhalfay/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/ArusaKhalfay/Leetcode/tree/master/0682-baseball-game) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ArusaKhalfay/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |

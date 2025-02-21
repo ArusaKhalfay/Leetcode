@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/ArusaKhalfay/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ArusaKhalfay/Leetcode/tree/master/0817-design-hashmap) |
 | [0890-lemonade-change](https://github.com/ArusaKhalfay/Leetcode/tree/master/0890-lemonade-change) |
+| [0932-monotonic-array](https://github.com/ArusaKhalfay/Leetcode/tree/master/0932-monotonic-array) |
 | [0965-unique-email-addresses](https://github.com/ArusaKhalfay/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ArusaKhalfay/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ArusaKhalfay/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |

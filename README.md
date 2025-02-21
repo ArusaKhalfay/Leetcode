@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1894-merge-strings-alternately](https://github.com/ArusaKhalfay/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/ArusaKhalfay/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ArusaKhalfay/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3055-maximum-odd-binary-number](https://github.com/ArusaKhalfay/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -139,12 +140,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0890-lemonade-change](https://github.com/ArusaKhalfay/Leetcode/tree/master/0890-lemonade-change) |
 | [2032-largest-odd-number-in-string](https://github.com/ArusaKhalfay/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2756-buy-two-chocolates](https://github.com/ArusaKhalfay/Leetcode/tree/master/2756-buy-two-chocolates) |
+| [3055-maximum-odd-binary-number](https://github.com/ArusaKhalfay/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Math
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/ArusaKhalfay/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/ArusaKhalfay/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/ArusaKhalfay/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [3055-maximum-odd-binary-number](https://github.com/ArusaKhalfay/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Dynamic Programming
 |  |
 | ------- |

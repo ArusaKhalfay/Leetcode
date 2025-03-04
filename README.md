@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ArusaKhalfay/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/ArusaKhalfay/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ArusaKhalfay/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/ArusaKhalfay/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2756-buy-two-chocolates](https://github.com/ArusaKhalfay/Leetcode/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/ArusaKhalfay/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ArusaKhalfay/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/ArusaKhalfay/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/ArusaKhalfay/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/ArusaKhalfay/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1894-merge-strings-alternately](https://github.com/ArusaKhalfay/Leetcode/tree/master/1894-merge-strings-alternately) |
 | [2032-largest-odd-number-in-string](https://github.com/ArusaKhalfay/Leetcode/tree/master/2032-largest-odd-number-in-string) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/ArusaKhalfay/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ArusaKhalfay/Leetcode/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3055-maximum-odd-binary-number](https://github.com/ArusaKhalfay/Leetcode/tree/master/3055-maximum-odd-binary-number) |
 ## Two Pointers
@@ -124,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ArusaKhalfay/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/ArusaKhalfay/Leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1635-number-of-good-pairs](https://github.com/ArusaKhalfay/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2190-count-common-words-with-one-occurrence](https://github.com/ArusaKhalfay/Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 ## Linked List
 |  |
 | ------- |

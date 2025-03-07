@@ -1,14 +1,17 @@
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
         d = {}
-
-        for i in range(0, len(nums)):
-            if nums[i] in d:
-                d[nums[i]] += 1
+        for num in nums:
+            if num in d:
+                d[num] += 1
             else:
-                d[nums[i]] = 1
-        
+                d[num] = 1
+            
+        max_value = 0
+        max_key = 0
         for key, value in d.items():
-            if value > len(nums)/2:
-                return key
-       
+            if max_value < value:
+                max_value = value 
+                max_key = key
+
+        return max_key

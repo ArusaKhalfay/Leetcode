@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ArusaKhalfay/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/ArusaKhalfay/Leetcode/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/ArusaKhalfay/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/ArusaKhalfay/Leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/ArusaKhalfay/Leetcode/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/ArusaKhalfay/Leetcode/tree/master/0682-baseball-game) |
 | [0816-design-hashset](https://github.com/ArusaKhalfay/Leetcode/tree/master/0816-design-hashset) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ArusaKhalfay/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/ArusaKhalfay/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/ArusaKhalfay/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0575-distribute-candies](https://github.com/ArusaKhalfay/Leetcode/tree/master/0575-distribute-candies) |
 | [0816-design-hashset](https://github.com/ArusaKhalfay/Leetcode/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/ArusaKhalfay/Leetcode/tree/master/0817-design-hashmap) |
 | [0965-unique-email-addresses](https://github.com/ArusaKhalfay/Leetcode/tree/master/0965-unique-email-addresses) |

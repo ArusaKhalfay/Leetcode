@@ -3,18 +3,20 @@ class Solution:
         d1 = {}
         d2 = {}
 
-        for i in range(0, len(s)):
-            if s[i] in d1:
-                d1[s[i]] += 1
+        for letter in s:
+            if letter in d1:
+                d1[letter] += 1
             else:
-                d1[s[i]] = 1
+                d1[letter] = 1
 
-        for j in range(0, len(t)):
-            if t[j] in d2:
-                d2[t[j]] += 1
+        for l in t:
+            if l in d2:
+                d2[l] += 1
             else:
-                d2[t[j]] = 1
-        
-        return d1 == d2
-
-        
+                d2[l] = 1
+        print(d1)
+        print(d2)
+        if d1 == d2:
+            return True
+        else:
+            return False

@@ -218,4 +218,8 @@ A collection of LeetCode questions that I have solved - Created using [LeetHub v
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/ArusaKhalfay/Leetcode/tree/master/0268-missing-number) |
+## Database
+|  |
+| ------- |
+| [1258-article-views-i](https://github.com/ArusaKhalfay/Leetcode/tree/master/1258-article-views-i) |
 <!---LeetCode Topics End-->

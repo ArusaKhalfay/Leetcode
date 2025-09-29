@@ -25,6 +25,7 @@ A collection of LeetCode questions that I have solved - Created using [LeetHub v
 | [0890-lemonade-change](https://github.com/ArusaKhalfay/Leetcode/tree/master/0890-lemonade-change) |
 | [0932-monotonic-array](https://github.com/ArusaKhalfay/Leetcode/tree/master/0932-monotonic-array) |
 | [0965-unique-email-addresses](https://github.com/ArusaKhalfay/Leetcode/tree/master/0965-unique-email-addresses) |
+| [1019-squares-of-a-sorted-array](https://github.com/ArusaKhalfay/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ArusaKhalfay/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/ArusaKhalfay/Leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/ArusaKhalfay/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions that I have solved - Created using [LeetHub v
 | [0349-intersection-of-two-arrays](https://github.com/ArusaKhalfay/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ArusaKhalfay/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/ArusaKhalfay/Leetcode/tree/master/0455-assign-cookies) |
+| [1019-squares-of-a-sorted-array](https://github.com/ArusaKhalfay/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/ArusaKhalfay/Leetcode/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/ArusaKhalfay/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ArusaKhalfay/Leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions that I have solved - Created using [LeetHub v
 | [0392-is-subsequence](https://github.com/ArusaKhalfay/Leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/ArusaKhalfay/Leetcode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/ArusaKhalfay/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1019-squares-of-a-sorted-array](https://github.com/ArusaKhalfay/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/ArusaKhalfay/Leetcode/tree/master/1894-merge-strings-alternately) |
 ## Binary Search
 |  |
